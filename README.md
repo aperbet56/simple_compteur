@@ -1,5 +1,7 @@
 ## SIMPLE COMPTEUR
 
+![Design preview for the project](./img/banner.png)
+
 ## Le challenge
 
 Ce projet propose un compteur interactif en HTML5, CSS3 et JavaScript. Il permet d'ajouter ou de soustraire une unité ou 5 unités à la valeur du compteur, ainsi que de le remettre à zéro.
